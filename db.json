@@ -1,8 +1,4 @@
 {
-  "cars":[],
-  "wishlisted_cars":[],
   "users":[],
-  "employees":[],
-  "icecreams":[],
-  "cart":[]
+  "appointments":[]
 }
